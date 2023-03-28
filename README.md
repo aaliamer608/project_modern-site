@@ -7,9 +7,9 @@ Modern looking frontend in react to highlight fundamentals
 # Lessons Learned
 
 
-- React Functional components and their reusability
+- React Functional components and reusability
 - React file and folder structure
-- Fundamental CSS properties to master flex & grid
-- Fundamentals of the CSS BEM Model
-- From soft and pleasant animations to complex gradients
-- Perfectly placed media queries for satisfactory responsiveness covering almost devices
+- CSS properties of flex & grid
+- CSS BEM Model
+- Soft animations to complex gradients
+- Appropriate media queries for responsiveness
