@@ -8,6 +8,7 @@ Modern looking frontend in react to highlight fundamentals
 
 
 - React Functional components and reusability
+- React Functional components and reusability
 - React file and folder structure
 - CSS properties of flex & grid
 - CSS BEM Model
