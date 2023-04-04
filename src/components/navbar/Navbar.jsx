@@ -31,7 +31,7 @@ const Navbar = () => {
     <div className="mainTopic__navbar">
       <div className="mainTopic__navbar-links">
         <div className="mainTopic__navbar-links_logo">
-          <img src={logo} alt="logo" />
+          {/* <img src={logo} alt="logo" /> */}
         </div>
 
         <div className="mainTopic__navbar-links_container">
