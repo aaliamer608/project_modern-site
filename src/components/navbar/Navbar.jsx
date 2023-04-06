@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { RiMenu3Line, RiCloseLine } from "react-icons/ri";
 
-import logo from "../../assets/logo.svg";
+// import logo from "../../assets/logo.svg";
 import "./navbar.css";
 
 const Menu = () => (
@@ -16,7 +16,7 @@ const Menu = () => (
       <a href="#possibility">Possibility</a>
     </p>
     <p>
-      <a href="#features">Featcure</a>
+      <a href="#features">Features</a>
     </p>
     <p>
       <a href="#blog">Library</a>
